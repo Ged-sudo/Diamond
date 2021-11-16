@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  DiamondSimbir
-//
-//  Created by Евгений Андронов on 16.11.2021.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
